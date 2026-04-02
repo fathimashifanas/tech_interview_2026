@@ -1,8 +1,9 @@
 "# selection_interview" 
-## Submitted by
+---
+## Submitted By:
 Fathima Shifana S
 ---
-## Workflow:How to clone and contribute
+## Workflow: How to clone and contribute:
 ### 1.Fork the Repository
 - Navigate to the official repository.
 - Click the Fork button to create a copy in your GitHub account.
