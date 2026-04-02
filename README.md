@@ -1,8 +1,6 @@
 "# selection_interview" 
 ---
-## Submitted By:
-Fathima Shifana S
----
+## Submitted By Fathima Shifana S
 ## Workflow: How to clone and contribute:
 ### 1.Fork the Repository
 - Navigate to the official repository.
